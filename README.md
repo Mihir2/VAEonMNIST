@@ -1,3 +1,3 @@
 # VAEonMNIST
 
-This is a TOY project on building a Variational Auto-Encoder with MNIST dataset.
+This is a project on Suveying Variational Auto-Encoder and other generative models with MNIST dataset.
